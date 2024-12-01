@@ -1,4 +1,4 @@
-![logo](https://github.com/DrAdnanFarzandAli/Adnan-Farzand-Ali/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.png)
+![logo](https://github.com/DrAdnanFarzandAli/DrAdnanFarzandAli/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Dr. Adnan Farzand Ali</h1>
 <h3 align="center">Project Management Gold Medalist | Operations Managing Specialist | Business Intelligence (BI) Data Analyst | Product Requirements Engineer | Research Analyst & Solution Architect | Scrum Master.</h3>
 
