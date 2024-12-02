@@ -1,3 +1,4 @@
+![logo](https://github.com/DrAdnanFarzandAli/DrAdnanFarzandAli/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1>Hi, I'm Dr. Adnan! </h1>
 
 ## Welcome to My GitHub Profile!
@@ -214,6 +215,10 @@ I am deeply committed to driving technological innovation, business growth, and 
 [Data Visualization with Python](https://www.credly.com/earner/earned/badge/938dfdcb-3dbd-4348-b3e7-8107a06f3507)
 
 ![IBM Data Visualization Badge](https://images.credly.com/size/100x100/images/9da3eedf-fda3-4e81-bb46-d174b4699bf1/image.png)
+
+[Data Analysis with Python](https://www.credly.com/earner/earned/badge/02196522-3736-47a6-a8ef-38c194d5e272)
+
+![IBM Data Analysis with Python](https://images.credly.com/size/100x100/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png)
 
 
 ### Excel Projects 
