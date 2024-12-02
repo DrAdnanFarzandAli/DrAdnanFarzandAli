@@ -195,13 +195,16 @@ I am deeply committed to driving technological innovation, business growth, and 
 
 <h2>Certifications:</h2>
 <h3>Google:</h3>
-[Google Project Management](https://www.coursera.org/account/accomplishments/professional-cert/7QBEEXWIWEBB)
+
+[Google Project Management](https://www.coursera.org/account/accomplishments/professional-cert/XYZ12345)
 
 
 <h2>Certificate Badges:</h2>
 <h3>IBM:</h3>
+
 [Data Visualization with Python](https://www.credly.com/earner/earned/badge/938dfdcb-3dbd-4348-b3e7-8107a06f3507)
-<img src="https://i.imgur.com/9YtURZR.png" alt="Comptia Security+" width="100"/>
+
+![IBM Data Visualization Badge](https://images.credly.com/size/340x340/images/9da3eedf-fda3-4e81-bb46-d174b4699bf1/image.png)
 
 ### Certifications
 
