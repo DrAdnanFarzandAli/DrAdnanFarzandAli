@@ -192,7 +192,15 @@ I am deeply committed to driving technological innovation, business growth, and 
 ![Software Development Lifecycle](https://img.shields.io/badge/Software_Development_Lifecycle-1F72A2?style=for-the-badge&logo=devops&logoColor=white)
 ![Process Optimization](https://img.shields.io/badge/Process_Optimization-FF6347?style=for-the-badge&logo=process&logoColor=white)
 ![Business Intelligence Tools](https://img.shields.io/badge/BI_Tools-4E8A8B?style=for-the-badge&logo=powerbi&logoColor=white)
+
 <h2>Certifications:</h2>
+<h3>Google:</h3>
+
+[Google Project Management](https://www.coursera.org/account/accomplishments/professional-cert/7QBEEXWIWEBB)
+
+
+
+<h2>Certificate Badges:</h2>
 ## 🔐 CompTIA Security+ ce Certification
 - [CompTIA Security+ ce Certification](https://www.credly.com/badges/ab411b1b-2f15-4161-8340-78d1071d077c/public_url)
 <img src="https://i.imgur.com/9YtURZR.png" alt="Comptia Security+" width="100"/>
