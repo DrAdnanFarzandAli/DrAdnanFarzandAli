@@ -194,8 +194,15 @@ I am deeply committed to driving technological innovation, business growth, and 
 ![Process Optimization](https://img.shields.io/badge/Process_Optimization-FF6347?style=for-the-badge&logo=process&logoColor=white)
 ![Business Intelligence Tools](https://img.shields.io/badge/BI_Tools-4E8A8B?style=for-the-badge&logo=powerbi&logoColor=white)
 
-<h2>Certifications:</h2>
-<h3>Google:</h3>
+<h2>Certificate and Badges Approval:</h2>
+
+<h3>American Council & FIBAA On Education Transcript:</h3>
+
+[View American Council on Education Transcript](https://github.com/DrAdnanFarzandAli/AMERICAN-COUNCIL-ON-EDUCATION-TRANSCRIPT/blob/main/AMERICAN%20COUNCIL%20%26%20FIBAA%20ON%20EDUCATION%20TRANSCRIP.pdf)
+
+
+<h3>Certifications:</h3>
+<h4>Google:</h4>
 
 [Google Project Management](https://www.coursera.org/account/accomplishments/professional-cert/7QBEEXWIWEBB)
 
@@ -210,15 +217,8 @@ I am deeply committed to driving technological innovation, business growth, and 
 [Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/Y6QC14B6N4XU)
 
 
-<h2>Certificate Badges Approval:</h2>
-
-### AMERICAN COUNCIL & FIBAA ON EDUCATION TRANSCRIP
-
-[View American Council on Education Transcript](https://github.com/DrAdnanFarzandAli/AMERICAN-COUNCIL-ON-EDUCATION-TRANSCRIPT/blob/main/AMERICAN%20COUNCIL%20%26%20FIBAA%20ON%20EDUCATION%20TRANSCRIP.pdf)
-
-
-<h2>Certificate Badges:</h2>
-<h3>IBM:</h3>
+<h3> Badges:</h3>
+<h4>IBM:</h4>
 
 [Data Visualization with Python](https://www.credly.com/earner/earned/badge/938dfdcb-3dbd-4348-b3e7-8107a06f3507)
 
