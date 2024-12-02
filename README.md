@@ -228,25 +228,13 @@ I am deeply committed to driving technological innovation, business growth, and 
 
 ![IBM Data Analysis with Python](https://images.credly.com/size/100x100/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png)
 
+## Business Intelligence Data Analysis/Financial Analysis Projects:
 
 ### Excel Projects 
 [View All Excel Projects](https://github.com/danartech/Excel-Projects)
 - [Excel Data Analysis Project](https://github.com/danartech/Excel-Data-Analysis-Project)
   - **Description:** Analyzed datasets in Excel, created pivot tables, and visualized data with charts and graphs.
 
-- [Excel Data Analysis Dashboard Reporting Project](https://github.com/danartech/Excel-Data-Analysis-Dashboard-Project)
-  - **Description:** Leveraged Microsoft Excel to create an interactive data analysis dashboard, showcasing skills in data cleaning, advanced functions, VBA macros, and dynamic visualization.
-
-- [Coffee Sales Analysis Project](https://github.com/danartech/Coffee-Sales-Analysis-Excel-Project)
-  - **Description:** This project focuses on analyzing coffee sales data to derive meaningful insights that can guide business decisions. Through various data analysis techniques, I examined sales trends, customer preferences, and performance metrics.
-
-- [Social Buzz Data Analysis Project](https://github.com/danartech/Social-Buzz-Data-Analysis-Project)
-  - **Description:** Led a data analysis project at Accenture for Social Buzz, a social media company, identifying the top five content categories by popularity to inform strategic decisions for their upcoming IPO, utilizing advanced data cleaning, merging techniques, and Excel functions.
-
-- [Healthcare Analytics Dashboard - Excel Project](https://github.com/danartech/Healthcare-Analytics-Excel)
-  - **Description:** Analyzed healthcare data to derive actionable insights for improved patient care and resource allocation using Excel and SQL, visualized through interactive dashboards.
-
-- [New York Jobs CEO Council-Financial Analyst Job Simulation](https://github.com/danartech/Financial-Analysis-of-BigTechCompany)
-  - **Description:** Comprehensive financial analysis of BigTechCompany to assess historical performance, customer trends, and future projections for strategic client relationship decisions. 
-
 ### Power Bi Projects 
+[View All Power Bi Projects](https://github.com/DrAdnanFarzandAli/Power-Bi-Projects)
+- [Comprehensive Business Performance and Market Insights Report](https://github.com/DrAdnanFarzandAli/Comprehensive-Business-Performance-and-Market-Insights-Report)
