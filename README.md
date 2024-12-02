@@ -198,22 +198,23 @@ I am deeply committed to driving technological innovation, business growth, and 
 
 [Google Project Management](https://www.coursera.org/account/accomplishments/professional-cert/7QBEEXWIWEBB)
 
+[Google Business Intelligence](https://www.coursera.org/account/accomplishments/professional-cert/IM0Q6V9O3XVB)
+
+[Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/ZNE4BKJNRMSX)
+
+[Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/KKTDUC0WLB1L)
+
+[Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/C149UEVCWHC2)
+
+[Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/Y6QC14B6N4XU)
 
 <h2>Certificate Badges:</h2>
 <h3>IBM:</h3>
 
 [Data Visualization with Python](https://www.credly.com/earner/earned/badge/938dfdcb-3dbd-4348-b3e7-8107a06f3507)
 
-![IBM Data Visualization Badge](https://images.credly.com/size/340x340/images/9da3eedf-fda3-4e81-bb46-d174b4699bf1/image.png)
+![IBM Data Visualization Badge](https://images.credly.com/size/100x100/images/9da3eedf-fda3-4e81-bb46-d174b4699bf1/image.png)
 
-### Certifications
-
-[![IBM Data Visualization with Python](https://raw.githubusercontent.com/username/repository-name/branch-name/path-to-your-image.png)](https://www.coursera.org/account/accomplishments/professional-cert/7QBEEXWIWEBB)
-
-
-## 🔐 CompTIA Security+ ce Certification
-- [CompTIA Security+ ce Certification](https://www.credly.com/badges/ab411b1b-2f15-4161-8340-78d1071d077c/public_url)
-<img src="https://i.imgur.com/9YtURZR.png" alt="Comptia Security+" width="100"/>
 
 ### Excel Projects 
 [View All Excel Projects](https://github.com/danartech/Excel-Projects)
