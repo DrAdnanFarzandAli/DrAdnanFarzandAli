@@ -238,3 +238,4 @@ I am deeply committed to driving technological innovation, business growth, and 
 ### Power Bi Projects 
 [View All Power Bi Projects](https://github.com/DrAdnanFarzandAli/Power-Bi-Projects)
 - [Comprehensive Business Performance and Market Insights Report](https://github.com/DrAdnanFarzandAli/Comprehensive-Business-Performance-and-Market-Insights-Report)
+- [Global Retail Market Trends and Insights 2024 Overview](https://github.com/DrAdnanFarzandAli/Global-Retail-Market-Trends-and-Insights-2024-Overview)
