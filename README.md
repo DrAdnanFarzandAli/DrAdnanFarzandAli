@@ -204,17 +204,12 @@ I am deeply committed to driving technological innovation, business growth, and 
 <h3>Certifications:</h3>
 <h4>Google:</h4>
 
-[Google Project Management](https://www.coursera.org/account/accomplishments/professional-cert/7QBEEXWIWEBB)
-
-[Google Business Intelligence](https://www.coursera.org/account/accomplishments/professional-cert/IM0Q6V9O3XVB)
-
-[Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/ZNE4BKJNRMSX)
-
-[Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/KKTDUC0WLB1L)
-
-[Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/C149UEVCWHC2)
-
-[Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/Y6QC14B6N4XU)
+- [Google Project Management](https://www.coursera.org/account/accomplishments/professional-cert/7QBEEXWIWEBB)
+- [Google Business Intelligence](https://www.coursera.org/account/accomplishments/professional-cert/IM0Q6V9O3XVB)
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/ZNE4BKJNRMSX)
+- [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/KKTDUC0WLB1L)
+- [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/C149UEVCWHC2)
+- [Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/Y6QC14B6N4XU)
 
 
 <h3> Badges:</h3>
