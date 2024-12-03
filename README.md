@@ -211,6 +211,12 @@ I am deeply committed to driving technological innovation, business growth, and 
 - [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/C149UEVCWHC2)
 - [Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/Y6QC14B6N4XU)
 
+<h4>Microsoft:</h4> 
+
+- [Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/56M1DFYCNJ5Q)
+- [Microsoft Business Analyst](https://www.coursera.org/account/accomplishments/professional-cert/0QHIEETUAKO1)
+
+
 
 <h3> Badges:</h3>
 <h4>IBM:</h4>
