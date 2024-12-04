@@ -229,6 +229,15 @@ I am deeply committed to driving technological innovation, business growth, and 
 
 ![IBM Data Analysis with Python](https://images.credly.com/size/100x100/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png)
 
+[Data Analyst Capstone Project](https://www.credly.com/earner/earned/badge/745a7248-d830-450f-b647-843921533069)
+
+![IBM Capstone Project Data Analyst](https://images.credly.com/size/100x100/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png)
+
+[Google Data Analytics Professional Certificate](https://www.credly.com/earner/earned/badge/76ddbb7e-fdf0-4629-b532-856d2f227eb8)
+
+![Google Data Analytics Certificate](https://images.credly.com/size/100x100/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)
+
+
 ## Business Intelligence Data Analysis/Financial Analysis Projects:
 
 ### Excel Projects 
