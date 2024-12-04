@@ -237,6 +237,11 @@ I am deeply committed to driving technological innovation, business growth, and 
 
 ![Google Data Analytics Certificate](https://images.credly.com/size/100x100/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)
 
+[Project Management Essentials](https://www.credly.com/earner/earned/badge/7b09b19d-1148-480c-882e-f6db593f2ee7)
+
+![Project Management Essentials](https://images.credly.com/size/100x100/images/4d7038ef-658b-4ef8-8627-e0af45963c7e/image.png)
+
+
 
 ## Business Intelligence Data Analysis/Financial Analysis Projects:
 
