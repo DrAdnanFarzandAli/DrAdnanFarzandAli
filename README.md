@@ -245,6 +245,78 @@ I am deeply committed to driving technological innovation, business growth, and 
 
 ![Introduction to Agile Development and Scrum](https://images.credly.com/size/100x100/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png)
 
+[Project Management Job Search, Resume, and Interview Prep](https://www.credly.com/earner/earned/badge/ce212c11-1d00-4942-b97d-65533936a6c6)
+
+![Project Management Job Search, Resume, and Interview Prep](https://images.credly.com/size/100x100/images/b81854b5-d834-4892-9153-4dae56591da4/image.png)
+
+[IT Fundamentals for Everyone](https://www.credly.com/earner/earned/badge/c7d2d2c7-13f0-4947-a95e-45d8b72efcc9)
+
+![IT Fundamentals for Everyone](https://images.credly.com/size/100x100/images/fc6524f8-3059-4bad-9c9a-cd0aece8fdc7/image.png)
+
+[Product Management Essentials](https://www.credly.com/earner/earned/badge/ecef6fd3-08bf-4615-b9f6-cc9881f2af91)
+
+![Product Management Essentials](https://images.credly.com/size/100x100/images/6abd5c40-4663-4c4c-ab4e-ea4a86269db6/image.png)
+
+[Google Advanced Data Analytics Certificate](https://www.credly.com/earner/earned/badge/68475e8e-0994-41bc-a1bb-d4bb8763eae2)
+
+![Google Advanced Data Analytics Certificate](https://images.credly.com/size/100x100/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png)
+
+[Data Science Orientation](https://www.credly.com/earner/earned/badge/9b297299-6ed7-47f6-92e6-59d9bc625f9c)
+
+![Data Science Orientation](https://images.credly.com/size/100x100/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)
+
+[Generative AI Essentials](https://www.credly.com/earner/earned/badge/c561b237-b048-48e1-898c-09460cfd51ec)
+
+![Generative AI Essentials](https://images.credly.com/size/100x100/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png)
+
+[Generative AI Essentials for Data Science](https://www.credly.com/earner/earned/badge/55bf6e1b-d9ed-41f0-a6b4-261df2ff4645)
+
+![Generative AI Essentials for Data Science](https://images.credly.com/size/100x100/images/1dc40257-c856-4e6b-9a92-29be936a9e7c/image.png)
+
+[IBM AI Foundations for Business Specialization](https://www.credly.com/earner/earned/badge/efd7acad-1444-4b44-8863-971872d303ea)
+
+![IBM AI Foundations for Business Specialization](https://images.credly.com/size/100x100/images/c3a4c477-8fb6-4737-af88-cabbea1ad55b/IBM_AI_Foundations_for_Business.png)
+
+[Introduction to Cloud Computing](https://www.credly.com/earner/earned/badge/39ac14fb-4289-4e52-8c38-98bec40ebd17)
+
+![Introduction to Cloud Computing](https://images.credly.com/size/100x100/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png)
+
+[Querying Databases with SQL](https://www.credly.com/earner/earned/badge/ce9efbc7-3ace-4bfd-b737-47e049725259)
+
+![Querying Databases with SQL](https://images.credly.com/size/100x100/images/2c88c783-8753-44f8-8842-85d495ba1c0e/image.png)
+
+[Statistics Essentials Using Excel](https://www.credly.com/earner/earned/badge/f7650bbf-9379-4dc0-8d46-608a29ac0166)
+
+![Statistics Essentials Using Excel](https://images.credly.com/size/100x100/images/a0868d65-5df0-4524-9689-59c67e6a1dde/image.png)
+
+[Data Science Foundations](https://www.credly.com/earner/earned/badge/9ff86ce9-7356-452b-abda-787d87892322)
+
+![Data Science Foundations](https://images.credly.com/size/100x100/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png)
+
+[Meta Data Analyst Professional Certificate](https://www.credly.com/earner/earned/badge/83ee5d95-e565-431b-bd97-d2c6adb5b44a)
+
+![Meta Data Analyst Professional Certificate](https://images.credly.com/size/100x100/images/4dd82f2c-e7eb-4b64-bb24-f4351f596220/image.png)
+
+[Google IT Support Professional Certificate](https://www.credly.com/earner/earned/badge/d0d27781-79b8-4272-bbf4-d2399a65c06a)
+
+![Google IT Support Professional Certificate](https://images.credly.com/size/100x100/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png)
+
+[IBM Business Intelligence (BI) Analyst Professional Certificate](https://www.credly.com/earner/earned/badge/00773ee9-aeb6-44e7-b347-317ff7d57cd3)
+
+![IBM Business Intelligence (BI) Analyst Professional Certificate](https://images.credly.com/size/100x100/images/63cbaa7d-9dc1-497a-84be-50dcef1d848b/Coursera_20Business_20Intelligence_20BI_20Analyst_20Professional_20Certificate.png)
+
+[Deep Neural Networks with PyTorch](https://www.credly.com/earner/earned/badge/6b21019d-b6ef-4fa2-b6f6-3d6db8f4d15d)
+
+![Deep Neural Networks with PyTorch](https://images.credly.com/size/100x100/images/3551a56d-e006-4e63-be6d-6842d2d53cfa/image.png)
+
+[SAS Visual Business Analytics Professional Certificate](https://www.credly.com/earner/earned/badge/9b1e4260-d13a-4468-842d-55f769dc008f)
+
+![SAS Visual Business Analytics Professional Certificate](https://images.credly.com/size/100x100/images/adbb7c0e-b79f-4fbf-b215-9b402a89bfd8/90819_badges_Learn_CourseraCoBrand_BusinessIntell.png)
+
+
+
+
+
 
 
 
