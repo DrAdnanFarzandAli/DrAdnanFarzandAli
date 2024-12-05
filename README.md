@@ -241,6 +241,11 @@ I am deeply committed to driving technological innovation, business growth, and 
 
 ![Project Management Essentials](https://images.credly.com/size/100x100/images/4d7038ef-658b-4ef8-8627-e0af45963c7e/image.png)
 
+[Introduction to Agile Development and Scrum](https://www.credly.com/earner/earned/badge/c3f6282e-cba0-412a-826a-5e944a58976e)
+
+![Introduction to Agile Development and Scrum](https://images.credly.com/size/100x100/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png)
+
+
 
 
 ## Business Intelligence Data Analysis/Financial Analysis Projects:
