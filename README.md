@@ -217,11 +217,45 @@ I am deeply committed to driving technological innovation, business growth, and 
 
 - [Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/56M1DFYCNJ5Q)
 - [Microsoft Business Analyst](https://www.coursera.org/account/accomplishments/professional-cert/0QHIEETUAKO1)
+- [Microsoft IT Support Specialist](https://www.coursera.org/account/accomplishments/professional-cert/A7Z71OOUIG3E)
+- [Microsoft 365 Fundamentals](https://www.coursera.org/account/accomplishments/specialization/ANFSX9YDPXMW)
+- [Microsoft Azure Data Engineering Associate (DP-203)](https://www.coursera.org/account/accomplishments/professional-cert/QS3L331IG6T5)
+  
+<h4>Meta:</h4> 
 
+- [Meta Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/U2CVBGJUHKNJ) 
+- [Meta Marketing Analytics](https://www.coursera.org/account/accomplishments/professional-cert/U0HMTBTV8JV6)
+
+<h4>LearnQuest:</h4> 
+  
+- [Scrum Master Certification](https://www.coursera.org/account/accomplishments/specialization/46K23TWMRA4I)
+
+<h4>SkillUp EdTech:</h4> 
+ 
+- [Scrum Master](https://www.coursera.org/account/accomplishments/specialization/F07A2L5I7UHX)
+
+<h4>Tableau Learning Partner:</h4>
+
+- [Tableau Business Intelligence Analyst](https://www.coursera.org/account/accomplishments/professional-cert/7D4XSY0R5IJ6)
+  
+<h4>SAP:</h4>
+
+- [SAP Technology Consultant](https://www.coursera.org/account/accomplishments/professional-cert/61KTTVED7P7X)
+
+<h4>SAS:</h4>
+
+- [SAS Visual Business Analytics](https://www.coursera.org/account/accomplishments/professional-cert/RRN8ASSLTDAN)
+- [SAS Statistical Business Analyst](https://www.coursera.org/account/accomplishments/professional-cert/FLFU87E1402L)
+
+<h4>SAS:</h4>
+
+- [Google Professional Workspace Administrator](https://www.coursera.org/account/accomplishments/professional-cert/ITZHKB599EM1)
+- [Introduction to Generative AI Learning Path](https://www.coursera.org/account/accomplishments/specialization/BDLXTSEKUJLU)
+
+- [IBM IT Project Manager Professional Certificate](https://www.coursera.org/professional-certificates/ibm-it-project-manager)
 
 
 <h3> Badges:</h3>
-<h4>IBM:</h4>
 
 [Data Visualization with Python](https://www.credly.com/earner/earned/badge/938dfdcb-3dbd-4348-b3e7-8107a06f3507)
 
