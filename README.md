@@ -52,6 +52,8 @@ I am deeply committed to driving technological innovation, business growth, and 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<h2>Skills Wallet:</h2>
+
 ### Project Management Skills and Competencies
 #### Technical Skills 
 ![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
@@ -313,8 +315,57 @@ I am deeply committed to driving technological innovation, business growth, and 
 
 ![SAS Visual Business Analytics Professional Certificate](https://images.credly.com/size/100x100/images/adbb7c0e-b79f-4fbf-b215-9b402a89bfd8/90819_badges_Learn_CourseraCoBrand_BusinessIntell.png)
 
+[Deep Learning Essentials with Keras](https://www.credly.com/earner/earned/badge/d760735f-61de-430e-aa28-132ed069d40f)
 
+![Deep Learning Essentials with Keras](https://images.credly.com/size/100x100/images/91de936a-1322-446d-9ea6-949d78c57428/image.png)
 
+[Deep Learning with Tensorflow](https://www.credly.com/earner/earned/badge/b3878e4a-ce56-45e9-804d-7a6febbd863a) 
+
+![Deep Learning with Tensorflow](https://images.credly.com/size/100x100/images/61d40b7e-46df-4f8a-ac27-cb8520d8c15e/image.png)
+
+[Computer Vision and Image Processing Essentials](https://www.credly.com/earner/earned/badge/4effe0c5-e02d-4cf0-80d2-e29506d7e3bc)
+
+![Computer Vision and Image Processing Essentials](https://images.credly.com/size/100x100/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png)
+
+[Google Digital Marketing and E-Commerce Professional Certificate](https://www.credly.com/earner/earned/badge/861d9424-edce-478b-80e0-cbad8b1d3d7f)
+
+![Google Digital Marketing and E-Commerce Professional Certificate](https://images.credly.com/size/100x100/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png)
+
+[Exploratory Data Analysis for Machine Learning](https://www.credly.com/earner/earned/badge/0b083b45-f6d5-467c-89df-9546c7475b19)
+
+![Exploratory Data Analysis for Machine Learning](https://images.credly.com/size/100x100/images/34bc57a9-659c-4500-ac30-48d50b942478/image.png)
+
+[SAS Statistical Business Analyst Professional Certificate](https://www.credly.com/earner/earned/badge/31ed2273-58d0-4d20-bbd9-1c4801abc6b2)
+
+![SAS Statistical Business Analyst Professional Certificate](https://images.credly.com/size/100x100/images/98cacf67-57fe-425d-8782-5a8cffd9ee0a/image.png)
+
+[Unsupervised Machine Learning](https://www.credly.com/earner/earned/badge/ad8b403b-f89e-4958-8dc4-a0d9b93c0939) 
+
+![Unsupervised Machine Learning](https://images.credly.com/size/100x100/images/3c8bc106-3635-45d0-ab5a-736adb87595e/image.png)
+
+[Deep Learning and Reinforcement Learning](https://www.credly.com/earner/earned/badge/f4a17726-cd35-4615-8b39-7e6e98c992db) 
+
+![Deep Learning and Reinforcement Learning](https://images.credly.com/size/100x100/images/b352af34-6bd5-48eb-a8d9-e84f11faa53e/image.png) 
+
+[Meta Marketing Analytics Milestone (1 of 2)](https://www.credly.com/earner/earned/badge/e958c0f9-172d-48d9-991c-3faf3aca6b9e) 
+
+![Meta Marketing Analytics Milestone (1 of 2)](https://images.credly.com/size/100x100/images/f3af0321-cf53-4d2e-af0b-5bc3f6389814/600x600.png)
+
+[Supervised Machine Learning: Classification](https://www.credly.com/earner/earned/badge/f93f4684-f6bc-489b-b6c6-5c2ab2116c9f) 
+
+![Supervised Machine Learning: Classification](https://images.credly.com/size/100x100/images/19878499-c3d3-4e67-8b97-8ec273187ccd/image.png) 
+
+[Statistics for Data Science with Python](https://www.credly.com/earner/earned/badge/09f1189a-5d2e-4718-9957-6484935b8291)
+
+![Statistics for Data Science with Python](https://images.credly.com/size/100x100/images/f27d3b7c-e2b2-4816-9656-c10da20b7296/image.png)
+
+[Gen AI for Business Leaders - Part 1](https://www.credly.com/earner/earned/badge/15ed2232-3c81-430a-afa9-683f5c85e0c8)
+
+![Gen AI for Business Leaders - Part 1](https://images.credly.com/size/100x100/images/a46dcfe3-5982-4ecf-8ec3-ecfd500e9cdc/blob)
+
+[Generative AI for Human Resources Specialization](https://www.credly.com/earner/earned/badge/6147af9f-14ee-440d-a1a2-08f7a49aa7f3)
+
+![Generative AI for Human Resources Specialization](https://images.credly.com/size/100x100/images/b62e6769-90c4-46ee-9faf-6deb4576e358/Coursera_20Generative_20AI_20for_20Human_20Resources_20Specialization.png)
 
 
 
