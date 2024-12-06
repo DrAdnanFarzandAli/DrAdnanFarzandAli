@@ -252,7 +252,6 @@ I am deeply committed to driving technological innovation, business growth, and 
 - [Google Professional Workspace Administrator](https://www.coursera.org/account/accomplishments/professional-cert/ITZHKB599EM1)
 - [Introduction to Generative AI Learning Path](https://www.coursera.org/account/accomplishments/specialization/BDLXTSEKUJLU)
 
-- [IBM IT Project Manager Professional Certificate](https://www.coursera.org/professional-certificates/ibm-it-project-manager)
 
 
 <h3> Badges:</h3>
