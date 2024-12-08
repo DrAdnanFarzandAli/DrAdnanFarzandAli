@@ -406,10 +406,10 @@ I am deeply committed to driving technological innovation, business growth, and 
 
 ## Business Intelligence Data Analysis/Financial Analysis Projects:
 
-### Excel Projects 
-[View All Excel Projects](https://github.com/danartech/Excel-Projects)
-- [Excel Data Analysis Project](https://github.com/danartech/Excel-Data-Analysis-Project)
-  - **Description:** Analyzed datasets in Excel, created pivot tables, and visualized data with charts and graphs.
+### Microsoft Excel Projects 
+[View All Excel Projects](https://github.com/DrAdnanFarzandAli/Microsoft-Excel-Projects)
+- [Excel Project Bike Sales Dashboard](https://github.com/DrAdnanFarzandAli/Excel-Project-Bike-Sales-Dashboard)
+  - **Description:** This project demonstrates data analysis using Microsoft Excel. It involves data cleaning, analysis, and visualization to create an interactive dashboard.
 
 ### Power Bi Projects 
 [View All Power Bi Projects](https://github.com/DrAdnanFarzandAli/Power-Bi-Projects)
