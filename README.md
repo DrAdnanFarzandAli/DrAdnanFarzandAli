@@ -3,10 +3,6 @@
 
 ## Welcome to My GitHub Profile!
 
-![Trophy](https://img.shields.io/badge/trophy-GitHub-blue)
-![Python](https://img.shields.io/badge/Python-v3.8-blue)
-![Excel](https://img.shields.io/badge/Excel-2021-orange)
-
 ### About Me 
 I am a seasoned leader with over 14 years of experience in managing businesses across electronic product design, manufacturing, and engineering services. My journey in technology-driven industries includes spearheading the design, development, and delivery of cutting-edge solutions for international clients, emphasizing innovation and operational excellence.
 As a certified data analyst, I specialize in collecting, organizing, and interpreting complex datasets to support strategic decision-making. Leveraging advanced tools such as Tableau, Power BI, SQL, Python, Google Analytics, Microsoft Excel, SAS, and Apache Spark, I excel in deriving actionable insights. My expertise also includes developing and implementing data collection systems and optimization strategies to enhance statistical efficiency and business outcomes.
