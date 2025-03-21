@@ -3,8 +3,9 @@
 
 ## Welcome to My GitHub Profile!
 
-<h4 align="center">Project Management Gold Medalist | Operations Managing Specialist | Business Intelligence (BI) Data Analyst | Product Requirements Engineer | Research Analyst & Solution Architect | Scrum Master </h4>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnyrao07" alt="sunnyrao07" /></a> </p>
+![Trophy](https://img.shields.io/badge/trophy-GitHub-blue)
+![Python](https://img.shields.io/badge/Python-v3.8-blue)
+![Excel](https://img.shields.io/badge/Excel-2021-orange)
 
 ### About Me 
 I am a seasoned leader with over 14 years of experience in managing businesses across electronic product design, manufacturing, and engineering services. My journey in technology-driven industries includes spearheading the design, development, and delivery of cutting-edge solutions for international clients, emphasizing innovation and operational excellence.
