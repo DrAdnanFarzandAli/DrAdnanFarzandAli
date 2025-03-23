@@ -285,48 +285,41 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
       <br>Project Management Essentials
     </td>
   </tr>
+   <tr>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/c3f6282e-cba0-412a-826a-5e944a58976e">
+        <img src="https://images.credly.com/size/100x100/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png" alt="Introduction to Agile Development and Scrum">
+      </a>
+      <br>Introduction to Agile Development and Scrum
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/ce212c11-1d00-4942-b97d-65533936a6c6">
+        <img src="https://images.credly.com/size/100x100/images/b81854b5-d834-4892-9153-4dae56591da4/image.png" alt="Project Management Job Search, Resume, and Interview Prep">
+      </a>
+      <br>Project Management Job Search, Resume, and Interview Prep
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/c7d2d2c7-13f0-4947-a95e-45d8b72efcc9">
+        <img src="https://images.credly.com/size/100x100/images/fc6524f8-3059-4bad-9c9a-cd0aece8fdc7/image.png" alt="IT Fundamentals for Everyone">
+      </a>
+      <br>IT Fundamentals for Everyone
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/ecef6fd3-08bf-4615-b9f6-cc9881f2af91">
+        <img src="https://images.credly.com/size/100x100/images/6abd5c40-4663-4c4c-ab4e-ea4a86269db6/image.png" alt="Product Management Essentials">
+      </a>
+      <br>Product Management Essentials
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/9dbd6bd8-9e94-46c7-b170-3a136f4f94e6">
+        <img src="https://images.credly.com/size/100x100/images/7153ec15-b681-4fd0-a566-7807064b9084/image.png" alt="Product Management Capstone">
+      </a>
+      <br>Product Management Capstone
+    </td>
+  </tr>
+
 </table>
 
-
-[Data Visualization with Python](https://www.credly.com/earner/earned/badge/938dfdcb-3dbd-4348-b3e7-8107a06f3507)
-
-![IBM Data Visualization Badge](https://images.credly.com/size/100x100/images/9da3eedf-fda3-4e81-bb46-d174b4699bf1/image.png)
-
-[Data Analysis with Python](https://www.credly.com/earner/earned/badge/02196522-3736-47a6-a8ef-38c194d5e272)
-
-![IBM Data Analysis with Python](https://images.credly.com/size/100x100/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png)
-
-[Data Analyst Capstone Project](https://www.credly.com/earner/earned/badge/745a7248-d830-450f-b647-843921533069)
-
-![IBM Capstone Project Data Analyst](https://images.credly.com/size/100x100/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png)
-
-[Google Data Analytics Professional Certificate](https://www.credly.com/earner/earned/badge/76ddbb7e-fdf0-4629-b532-856d2f227eb8)
-
-![Google Data Analytics Certificate](https://images.credly.com/size/100x100/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)
-
-[Project Management Essentials](https://www.credly.com/earner/earned/badge/7b09b19d-1148-480c-882e-f6db593f2ee7)
-
-![Project Management Essentials](https://images.credly.com/size/100x100/images/4d7038ef-658b-4ef8-8627-e0af45963c7e/image.png)
-
-[Introduction to Agile Development and Scrum](https://www.credly.com/earner/earned/badge/c3f6282e-cba0-412a-826a-5e944a58976e)
-
-![Introduction to Agile Development and Scrum](https://images.credly.com/size/100x100/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png)
-
-[Project Management Job Search, Resume, and Interview Prep](https://www.credly.com/earner/earned/badge/ce212c11-1d00-4942-b97d-65533936a6c6)
-
-![Project Management Job Search, Resume, and Interview Prep](https://images.credly.com/size/100x100/images/b81854b5-d834-4892-9153-4dae56591da4/image.png)
-
-[IT Fundamentals for Everyone](https://www.credly.com/earner/earned/badge/c7d2d2c7-13f0-4947-a95e-45d8b72efcc9)
-
-![IT Fundamentals for Everyone](https://images.credly.com/size/100x100/images/fc6524f8-3059-4bad-9c9a-cd0aece8fdc7/image.png)
-
-[Product Management Essentials](https://www.credly.com/earner/earned/badge/ecef6fd3-08bf-4615-b9f6-cc9881f2af91)
-
-![Product Management Essentials](https://images.credly.com/size/100x100/images/6abd5c40-4663-4c4c-ab4e-ea4a86269db6/image.png)
-
-[Product Management Capstone](https://www.credly.com/earner/earned/badge/9dbd6bd8-9e94-46c7-b170-3a136f4f94e6)
-
-![Product Management Capstone](https://images.credly.com/size/100x100/images/7153ec15-b681-4fd0-a566-7807064b9084/image.png)
 
 [Google Advanced Data Analytics Certificate](https://www.credly.com/earner/earned/badge/68475e8e-0994-41bc-a1bb-d4bb8763eae2)
 
