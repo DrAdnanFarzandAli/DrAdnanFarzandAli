@@ -250,6 +250,44 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 
 <h3> Badges:</h3>
 
+## My Certifications
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/938dfdcb-3dbd-4348-b3e7-8107a06f3507">
+        <img src="https://images.credly.com/size/100x100/images/9da3eedf-fda3-4e81-bb46-d174b4699bf1/image.png" alt="Data Visualization with Python">
+      </a>
+      <br>Data Visualization with Python
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/02196522-3736-47a6-a8ef-38c194d5e272">
+        <img src="https://images.credly.com/size/100x100/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png" alt="Data Analysis with Python">
+      </a>
+      <br>Data Analysis with Python
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/745a7248-d830-450f-b647-843921533069">
+        <img src="https://images.credly.com/size/100x100/images/f02ecb21-5237-4974-b259-0a8f74675c59/Data_Analyst_Capstone.png" alt="Data Analyst Capstone Project">
+      </a>
+      <br>Data Analyst Capstone Project
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/76ddbb7e-fdf0-4629-b532-856d2f227eb8">
+        <img src="https://images.credly.com/size/100x100/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Certificate">
+      </a>
+      <br>Google Data Analytics Certificate
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/7b09b19d-1148-480c-882e-f6db593f2ee7">
+        <img src="https://images.credly.com/size/100x100/images/4d7038ef-658b-4ef8-8627-e0af45963c7e/image.png" alt="Project Management Essentials">
+      </a>
+      <br>Project Management Essentials
+    </td>
+  </tr>
+</table>
+
+
 [Data Visualization with Python](https://www.credly.com/earner/earned/badge/938dfdcb-3dbd-4348-b3e7-8107a06f3507)
 
 ![IBM Data Visualization Badge](https://images.credly.com/size/100x100/images/9da3eedf-fda3-4e81-bb46-d174b4699bf1/image.png)
@@ -399,6 +437,7 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 ![Generative AI for Human Resources Specialization](https://images.credly.com/size/100x100/images/b62e6769-90c4-46ee-9faf-6deb4576e358/Coursera_20Generative_20AI_20for_20Human_20Resources_20Specialization.png)
 
 [IBM Data Science Professional Certificate (V3)](https://www.credly.com/earner/earned/badge/ba21d256-cf85-4b40-83dd-30954a840845)
+
 ![IBM Data Science Professional Certificate (V3)](https://images.credly.com/size/100x100/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png)
 
 
