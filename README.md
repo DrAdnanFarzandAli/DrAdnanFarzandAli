@@ -386,9 +386,9 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 
 ![Statistics for Data Science with Python](https://images.credly.com/size/100x100/images/f27d3b7c-e2b2-4816-9656-c10da20b7296/image.png)
 
-[Gen AI for Business Leaders - Part 1](https://www.credly.com/earner/earned/badge/15ed2232-3c81-430a-afa9-683f5c85e0c8)
+[GenAI for Executives & Business Leaders: An Introduction](https://www.credly.com/earner/earned/badge/15ed2232-3c81-430a-afa9-683f5c85e0c8)
 
-![Gen AI for Business Leaders - Part 1](https://images.credly.com/size/100x100/images/a46dcfe3-5982-4ecf-8ec3-ecfd500e9cdc/blob)
+![GenAI for Executives & Business Leaders: An Introduction](https://images.credly.com/size/100x100/images/a46dcfe3-5982-4ecf-8ec3-ecfd500e9cdc/blob)
 
 [Generative AI for Human Resources Specialization](https://www.credly.com/earner/earned/badge/6147af9f-14ee-440d-a1a2-08f7a49aa7f3)
 
