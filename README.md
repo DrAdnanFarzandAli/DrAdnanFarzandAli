@@ -55,6 +55,19 @@ I am deeply committed to driving technological innovation, business growth, and 
 <h2>Skills Wallet:</h2>
 
 ### Project Management Skills and Competencies
+
+![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+![Monday.com](https://img.shields.io/badge/Monday.com-FF3E00?style=flat&logo=monday&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Smartsheet](https://img.shields.io/badge/Smartsheet-00778F?style=flat&logo=smartsheet&logoColor=white)
+![Basecamp](https://img.shields.io/badge/Basecamp-97CC64?style=flat&logo=basecamp&logoColor=black)
+![Wrike](https://img.shields.io/badge/Wrike-22BB33?style=flat&logo=wrike&logoColor=white)
+![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=flat&logo=microsoft&logoColor=white)
+![Zoho Projects](https://img.shields.io/badge/Zoho_Projects-FF0000?style=flat&logo=zoho&logoColor=white)
+
+
 #### Technical Skills 
 ![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
