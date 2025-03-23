@@ -1,4 +1,4 @@
-![logo](https://github.com/DrAdnanFarzandAli/DrAdnanFarzandAli/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.png)
+![image](https://github.com/user-attachments/assets/c4443ed7-4846-4831-b7b6-fd8f34f9f28a)![logo](https://github.com/DrAdnanFarzandAli/DrAdnanFarzandAli/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1>Hi, I'm Dr. Adnan! </h1>
 
 ## Welcome to My GitHub Profile!
@@ -388,7 +388,8 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 
 [GenAI for Executives & Business Leaders: An Introduction](https://www.credly.com/earner/earned/badge/15ed2232-3c81-430a-afa9-683f5c85e0c8)
 
-![GenAI for Executives & Business Leaders: An Introduction](https://images.credly.com/size/100x100/images/a46dcfe3-5982-4ecf-8ec3-ecfd500e9cdc/blob)
+![GenAI for Executives & Business Leaders: An Introduction](https://images.credly.com/size/100x100/images/4611b9ff-09ca-4ed9-a36e-2be3f57fdf83/blob)
+
 
 [Generative AI for Human Resources Specialization](https://www.credly.com/earner/earned/badge/6147af9f-14ee-440d-a1a2-08f7a49aa7f3)
 
