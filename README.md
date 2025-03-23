@@ -4,8 +4,7 @@
 ## Welcome to My GitHub Profile!
 
 ### About Me 
-<p align="justify">I am a seasoned leader with over 14 years of experience in managing businesses across electronic product design, manufacturing, and engineering services. My journey in technology-driven industries includes spearheading the design, development, and delivery of cutting-edge solutions for international clients, emphasizing innovation and operational excellence. As a certified data analyst, I specialize in collecting, organizing, and interpreting complex datasets to support strategic decision-making. Leveraging advanced tools such as Tableau, Power BI, SQL, Python, Google Analytics, Microsoft Excel, SAS, and Apache Spark, I excel in deriving actionable insights. My expertise also includes developing and implementing data collection systems and optimization strategies to enhance statistical efficiency and business outcomes.
-</p>
+<p align="justify"> I am a seasoned leader with over 14 years of experience in managing businesses across electronic product design, manufacturing, and engineering services. My journey in technology-driven industries includes spearheading the design, development, and delivery of cutting-edge solutions for international clients, emphasizing innovation and operational excellence. As a certified data analyst, I specialize in collecting, organizing, and interpreting complex datasets to support strategic decision-making. Leveraging advanced tools such as Tableau, Power BI, SQL, Python, Google Analytics, Microsoft Excel, SAS, and Apache Spark, I excel in deriving actionable insights. My expertise also includes developing and implementing data collection systems and optimization strategies to enhance statistical efficiency and business outcomes.</p>
 
 ![Matrix SVG](https://miro.medium.com/v2/resize:fit:828/format:webp/0*tD5kEC2JYcKHH0zO.gif)
 
