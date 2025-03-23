@@ -237,24 +237,21 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
     <td></td>
     <td></td>
   </tr>
-   <tr>
+  <tr>
     <th>LearnQuest</th>
     <th>SkillUp EdTech</th>
     <th>Tableau Learning Partner</th>
   </tr>
   <tr>
-    <td>Scrum Master Certification</td>
-    <td>Scrum Master</td>
-    <td>Tableau Business Intelligence Analyst</td>
-  </tr>
+    <td><a href="https://www.coursera.org/account/accomplishments/specialization/46K23TWMRA4I">Scrum Master Certification</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/specialization/F07A2L5I7UHX">Scrum Master</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/7D4XSY0R5IJ6">Tableau Business Intelligence 
+    Analyst</a></td>
+    </tr>
 </table>
 
 ## Certifications
 
-### LearnQuest | SkillUp EdTech | Tableau Learning Partner
-| LearnQuest | SkillUp EdTech | Tableau Learning Partner |
-|------------|---------------|--------------------------|
-| [Scrum Master Certification](https://www.coursera.org/account/accomplishments/specialization/46K23TWMRA4I) | [Scrum Master](https://www.coursera.org/account/accomplishments/specialization/F07A2L5I7UHX) | [Tableau Business Intelligence Analyst](https://www.coursera.org/account/accomplishments/professional-cert/7D4XSY0R5IJ6) |
 
 
 
@@ -283,6 +280,8 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 <h4>LearnQuest:</h4> 
   
 - [Scrum Master Certification](https://www.coursera.org/account/accomplishments/specialization/46K23TWMRA4I)
+- [Scrum Master](https://www.coursera.org/account/accomplishments/specialization/F07A2L5I7UHX)
+- [Tableau Business Intelligence Analyst](https://www.coursera.org/account/accomplishments/professional-cert/7D4XSY0R5IJ6)
 
 <h4>SkillUp EdTech:</h4> 
  
