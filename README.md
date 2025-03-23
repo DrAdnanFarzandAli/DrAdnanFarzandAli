@@ -55,6 +55,7 @@ I am deeply committed to driving technological innovation, business growth, and 
 <h2>Skills Wallet:</h2>
 
 ### Project Management Skills and Competencies
+#### Technical Skills 
 
 ![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
@@ -66,9 +67,39 @@ I am deeply committed to driving technological innovation, business growth, and 
 ![Wrike](https://img.shields.io/badge/Wrike-22BB33?style=flat&logo=wrike&logoColor=white)
 ![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-217346?style=flat&logo=microsoft&logoColor=white)
 ![Zoho Projects](https://img.shields.io/badge/Zoho_Projects-FF0000?style=flat&logo=zoho&logoColor=white)
+![Teamwork](https://img.shields.io/badge/Teamwork-7057FF?style=flat&logo=teamwork&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-FFAA00?style=flat&logo=airtable&logoColor=white)
+![nTask](https://img.shields.io/badge/nTask-1DA1F2?style=flat&logo=ntask&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-F7DF1E?style=flat&logo=miro&logoColor=black)
+![Scoro](https://img.shields.io/badge/Scoro-2F3B52?style=flat&logo=scoro&logoColor=white)
+![Podio](https://img.shields.io/badge/Podio-0377BC?style=flat&logo=podio&logoColor=white)
+![Workzone](https://img.shields.io/badge/Workzone-0052CC?style=flat&logo=workzone&logoColor=white)
+![Bitrix24](https://img.shields.io/badge/Bitrix24-1185C4?style=flat&logo=bitrix24&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-FF6F00?style=flat&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-000000?style=flat&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-00B2A9?style=flat&logo=kanban&logoColor=white)
+![Waterfall](https://img.shields.io/badge/Waterfall-0074CC?style=flat&logo=waterfall&logoColor=white)
+![Lean](https://img.shields.io/badge/Lean-80B500?style=flat&logo=lean&logoColor=white)
+![Critical Path Method](https://img.shields.io/badge/Critical_Path_Method-9B30FF?style=flat&logo=critical_path&logoColor=white)
+![Six Sigma](https://img.shields.io/badge/Six_Sigma-2E8B57?style=flat&logo=six-sigma&logoColor=white)
+![PRINCE2](https://img.shields.io/badge/PRINCE2-0000FF?style=flat&logo=prince2&logoColor=white)
+![Critical Chain Project Management](https://img.shields.io/badge/Critical_Chain_Project_Management-FF7F00?style=flat&logo=critical_chain&logoColor=white)
+![Earned Value Management](https://img.shields.io/badge/Earned_Value_Management-FF6347?style=flat&logo=earned_value_management&logoColor=white)
+![Monte Carlo Simulation](https://img.shields.io/badge/Monte_Carlo_Simulation-3CB371?style=flat&logo=monte_carlo&logoColor=white)
+![Risk Management](https://img.shields.io/badge/Risk_Management-FFD700?style=flat&logo=risk_management&logoColor=white)
+![Fast Tracking](https://img.shields.io/badge/Fast_Tracking-DAA520?style=flat&logo=fast_tracking&logoColor=white)
+![Crashing](https://img.shields.io/badge/Crashing-D2691E?style=flat&logo=crashing&logoColor=white)
+![Gantt Charts](https://img.shields.io/badge/Gantt_Charts-5B9BD5?style=flat&logo=gantt&logoColor=white)
+![Work Breakdown Structure](https://img.shields.io/badge/Work_Breakdown_Structure-8A2BE2?style=flat&logo=work_breakdown_structure&logoColor=white)
+![Resource Leveling](https://img.shields.io/badge/Resource_Leveling-20B2AA?style=flat&logo=resource_leveling&logoColor=white)
+![Stakeholder Analysis](https://img.shields.io/badge/Stakeholder_Analysis-FF4500?style=flat&logo=stakeholder_analysis&logoColor=white)
+![Scope Management](https://img.shields.io/badge/Scope_Management-32CD32?style=flat&logo=scope_management&logoColor=white)
+![Decision Matrix Analysis](https://img.shields.io/badge/Decision_Matrix_Analysis-800080?style=flat&logo=decision_matrix_analysis&logoColor=white)
 
 
-#### Technical Skills 
+
 ![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Monday.com](https://img.shields.io/badge/Monday.com-FF3E00?style=for-the-badge&logo=monday&logoColor=white)
