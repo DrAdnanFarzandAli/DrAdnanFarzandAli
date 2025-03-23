@@ -349,30 +349,44 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
       <br>IBM AI Foundations for Business Specialization
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/39ac14fb-4289-4e52-8c38-98bec40ebd17">
+        <img src="https://images.credly.com/size/100x100/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png" alt="Introduction to Cloud Computing">
+      </a>
+      <br>Introduction to Cloud Computing
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/ce9efbc7-3ace-4bfd-b737-47e049725259">
+        <img src="https://images.credly.com/size/100x100/images/2c88c783-8753-44f8-8842-85d495ba1c0e/image.png" alt="Querying Databases with SQL">
+      </a>
+      <br>Querying Databases with SQL
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/f7650bbf-9379-4dc0-8d46-608a29ac0166">
+        <img src="https://images.credly.com/size/100x100/images/a0868d65-5df0-4524-9689-59c67e6a1dde/image.png" alt="Statistics Essentials Using Excel">
+      </a>
+      <br>Statistics Essentials Using Excel
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/9ff86ce9-7356-452b-abda-787d87892322">
+        <img src="https://images.credly.com/size/100x100/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png" alt="Data Science Foundations">
+      </a>
+      <br>Data Science Foundations
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/83ee5d95-e565-431b-bd97-d2c6adb5b44a">
+        <img src="https://images.credly.com/size/100x100/images/4dd82f2c-e7eb-4b64-bb24-f4351f596220/image.png" alt="Meta Data Analyst Professional Certificate">
+      </a>
+      <br>Meta Data Analyst Professional Certificate
+    </td>
+  </tr>
 </table>
 
 
 
 
-[Introduction to Cloud Computing](https://www.credly.com/earner/earned/badge/39ac14fb-4289-4e52-8c38-98bec40ebd17)
 
-![Introduction to Cloud Computing](https://images.credly.com/size/100x100/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png)
-
-[Querying Databases with SQL](https://www.credly.com/earner/earned/badge/ce9efbc7-3ace-4bfd-b737-47e049725259)
-
-![Querying Databases with SQL](https://images.credly.com/size/100x100/images/2c88c783-8753-44f8-8842-85d495ba1c0e/image.png)
-
-[Statistics Essentials Using Excel](https://www.credly.com/earner/earned/badge/f7650bbf-9379-4dc0-8d46-608a29ac0166)
-
-![Statistics Essentials Using Excel](https://images.credly.com/size/100x100/images/a0868d65-5df0-4524-9689-59c67e6a1dde/image.png)
-
-[Data Science Foundations](https://www.credly.com/earner/earned/badge/9ff86ce9-7356-452b-abda-787d87892322)
-
-![Data Science Foundations](https://images.credly.com/size/100x100/images/921cd89b-d4be-4e95-a6b7-b9a2390131fa/image.png)
-
-[Meta Data Analyst Professional Certificate](https://www.credly.com/earner/earned/badge/83ee5d95-e565-431b-bd97-d2c6adb5b44a)
-
-![Meta Data Analyst Professional Certificate](https://images.credly.com/size/100x100/images/4dd82f2c-e7eb-4b64-bb24-f4351f596220/image.png)
 
 [Google IT Support Professional Certificate](https://www.credly.com/earner/earned/badge/d0d27781-79b8-4272-bbf4-d2399a65c06a)
 
