@@ -265,67 +265,6 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
     </tr>
    </table>
 
-## Certifications
-
-
-
-
-<h4>Google:</h4>
-
-- [Google Project Management](https://www.coursera.org/account/accomplishments/professional-cert/7QBEEXWIWEBB)
-- [Google Business Intelligence](https://www.coursera.org/account/accomplishments/professional-cert/IM0Q6V9O3XVB)
-- [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/ZNE4BKJNRMSX)
-- [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/KKTDUC0WLB1L)
-- [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/C149UEVCWHC2)
-- [Google Digital Marketing & E-commerce](https://www.coursera.org/account/accomplishments/professional-cert/Y6QC14B6N4XU)
-
-<h4>Microsoft:</h4> 
-
-- [Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/56M1DFYCNJ5Q)
-- [Microsoft Business Analyst](https://www.coursera.org/account/accomplishments/professional-cert/0QHIEETUAKO1)
-- [Microsoft IT Support Specialist](https://www.coursera.org/account/accomplishments/professional-cert/A7Z71OOUIG3E)
-- [Microsoft 365 Fundamentals](https://www.coursera.org/account/accomplishments/specialization/ANFSX9YDPXMW)
-- [Microsoft Azure Data Engineering Associate (DP-203)](https://www.coursera.org/account/accomplishments/professional-cert/QS3L331IG6T5)
-  
-<h4>Meta:</h4> 
-
-- [Meta Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/U2CVBGJUHKNJ) 
-- [Meta Marketing Analytics](https://www.coursera.org/account/accomplishments/professional-cert/U0HMTBTV8JV6)
-
-<h4>LearnQuest:</h4> 
-  
-- [Scrum Master Certification](https://www.coursera.org/account/accomplishments/specialization/46K23TWMRA4I)
-- [Scrum Master](https://www.coursera.org/account/accomplishments/specialization/F07A2L5I7UHX)
-- [Tableau Business Intelligence Analyst](https://www.coursera.org/account/accomplishments/professional-cert/7D4XSY0R5IJ6)
-
-<h4>SkillUp EdTech:</h4> 
- 
-- [Scrum Master](https://www.coursera.org/account/accomplishments/specialization/F07A2L5I7UHX)
-
-<h4>Tableau Learning Partner:</h4>
-
-- [Tableau Business Intelligence Analyst](https://www.coursera.org/account/accomplishments/professional-cert/7D4XSY0R5IJ6)
-  
-<h4>SAP:</h4>
-
-- [SAP Technology Consultant](https://www.coursera.org/account/accomplishments/professional-cert/61KTTVED7P7X)
-- [SAS Visual Business Analytics](https://www.coursera.org/account/accomplishments/professional-cert/RRN8ASSLTDAN)
-- [SAS Statistical Business Analyst](https://www.coursera.org/account/accomplishments/professional-cert/FLFU87E1402L)
-- [Google Professional Workspace Administrator](https://www.coursera.org/account/accomplishments/professional-cert/ITZHKB599EM1)
-- [Introduction to Generative AI Learning Path](https://www.coursera.org/account/accomplishments/specialization/BDLXTSEKUJLU)
-
-<h4>SAS:</h4>
-
-- [SAS Visual Business Analytics](https://www.coursera.org/account/accomplishments/professional-cert/RRN8ASSLTDAN)
-- [SAS Statistical Business Analyst](https://www.coursera.org/account/accomplishments/professional-cert/FLFU87E1402L)
-
-<h4>Google Cloud:</h4>
-
-- [Google Professional Workspace Administrator](https://www.coursera.org/account/accomplishments/professional-cert/ITZHKB599EM1)
-- [Introduction to Generative AI Learning Path](https://www.coursera.org/account/accomplishments/specialization/BDLXTSEKUJLU)
-
-
-
 <h3> Badges:</h3>
 
 <table>
