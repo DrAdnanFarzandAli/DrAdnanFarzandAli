@@ -189,9 +189,9 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ortonikc&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-<h2>Professional Certificate and Badges:</h2>
+<h2>Professional Certificates and Badges:</h2>
 
-##### Certifications and Badges Approval: American Council & FIBAA On Education Transcript
+#### Certifications and Badges Approval: American Council & FIBAA On Education Transcript
 
 [View American Council on Education Transcript](https://github.com/DrAdnanFarzandAli/AMERICAN-COUNCIL-ON-EDUCATION-TRANSCRIPT/blob/main/AMERICAN%20COUNCIL%20%26%20FIBAA%20ON%20EDUCATION%20TRANSCRIP.pdf)
 
