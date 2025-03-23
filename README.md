@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c4443ed7-4846-4831-b7b6-fd8f34f9f28a)![logo](https://github.com/DrAdnanFarzandAli/DrAdnanFarzandAli/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.png)
+![image](https://github.com/DrAdnanFarzandAli/DrAdnanFarzandAli/blob/main/Black%20Elegant%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1>Hi, I'm Dr. Adnan! </h1>
 
 ## Welcome to My GitHub Profile!
