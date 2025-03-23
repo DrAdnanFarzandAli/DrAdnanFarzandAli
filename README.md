@@ -249,15 +249,15 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
     Analyst</a></td>
     </tr>
     <tr>
-    <th>LearnQuest</th>
-    <th>SkillUp EdTech</th>
-    <th>Tableau Learning Partner</th>
+    <th>SAP</th>
+    <th>SAS</th>
+    <th>Google Cloud</th>
   </tr>
   <tr>
-    <td><a href="https://www.coursera.org/account/accomplishments/specialization/46K23TWMRA4I">Scrum Master Certification</a></td>
-    <td><a href="https://www.coursera.org/account/accomplishments/specialization/F07A2L5I7UHX">Scrum Master</a></td>
-    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/7D4XSY0R5IJ6">Tableau Business Intelligence 
-    Analyst</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/61KTTVED7P7X">SAP Technology Consultant</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/RRN8ASSLTDAN">SAS Visual Business Analytics</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/FLFU87E1402L">SAS Statistical Business Analyst</a> 
+    </td>
     </tr>
     
    </table>
