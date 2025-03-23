@@ -237,6 +237,16 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
     <td></td>
     <td></td>
   </tr>
+   <tr>
+    <th>LearnQuest</th>
+    <th>SkillUp EdTech</th>
+    <th>Tableau Learning Partner</th>
+  </tr>
+  <tr>
+    <td>Scrum Master Certification</td>
+    <td>Scrum Master</td>
+    <td>Tableau Business Intelligence Analyst</td>
+  </tr>
 </table>
 
 
