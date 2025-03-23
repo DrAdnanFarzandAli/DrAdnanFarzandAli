@@ -287,6 +287,7 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 ![Product Management Essentials](https://images.credly.com/size/100x100/images/6abd5c40-4663-4c4c-ab4e-ea4a86269db6/image.png)
 
 [Product Management Capstone](https://www.credly.com/earner/earned/badge/9dbd6bd8-9e94-46c7-b170-3a136f4f94e6)
+
 ![Product Management Capstone](https://images.credly.com/size/100x100/images/7153ec15-b681-4fd0-a566-7807064b9084/image.png)
 
 [Google Advanced Data Analytics Certificate](https://www.credly.com/earner/earned/badge/68475e8e-0994-41bc-a1bb-d4bb8763eae2)
