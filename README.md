@@ -146,6 +146,19 @@ I am deeply committed to driving technological innovation, business growth, and 
 ![Fuzzy Logic](https://img.shields.io/badge/Fuzzy_Logic-4CAF50?style=flat)
 
 ### Project Manager Core Competencies
+
+![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-0078D4?style=for-the-badge&logo=microsoft-project&logoColor=white)
+![Risk Management](https://img.shields.io/badge/Risk_Management-FF6F61?style=for-the-badge&logo=risk-management&logoColor=white)
+![Earned Value Management](https://img.shields.io/badge/Earned_Value_Management-0064A3?style=for-the-badge&logo=earned-value-management&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)
+![Waterfall](https://img.shields.io/badge/Waterfall-003D70?style=for-the-badge&logo=waterfall&logoColor=white)
+![Project Budgeting](https://img.shields.io/badge/Project_Budgeting-006F89?style=for-the-badge&logo=budgeting&logoColor=white)
+![Resource Allocation](https://img.shields.io/badge/Resource_Allocation-3EAA9B?style=for-the-badge&logo=resource-allocation&logoColor=white)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-FF6347?style=for-the-badge&logo=stakeholder&logoColor=white)
+![Scope Management](https://img.shields.io/badge/Scope_Management-006F89?style=for-the-badge&logo=scope-management&logoColor=white)
+![Time Management](https://img.shields.io/badge/Time_Management-FF5B5B?style=for-the-badge&logo=clock&logoColor=white)
+
+
 ![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-0078D4?style=for-the-badge&logo=microsoft-project&logoColor=white)
 ![Risk Management](https://img.shields.io/badge/Risk_Management-FF6F61?style=for-the-badge&logo=risk-management&logoColor=white)
 ![Earned Value Management](https://img.shields.io/badge/Earned_Value_Management-0064A3?style=for-the-badge&logo=earned-value-management&logoColor=white)
