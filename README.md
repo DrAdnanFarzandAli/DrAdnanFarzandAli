@@ -26,9 +26,6 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 #### Career Vision
 <p align="justify"> I am deeply committed to driving technological innovation, business growth, and operational efficiency. My career aspirations include exploring emerging trends, scaling businesses, and contributing to the success of forward-thinking organizations.</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ortonikc&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
@@ -191,7 +188,8 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 ![Process Optimization](https://img.shields.io/badge/Process_Optimization-FF6347?style=flat&logo=process&logoColor=white)
 ![Business Intelligence Tools](https://img.shields.io/badge/BI_Tools-4E8A8B?style=flat&logo=powerbi&logoColor=white)  
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ortonikc&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 <h2>Certificate and Badges Approval:</h2>
 
 <h3>American Council & FIBAA On Education Transcript:</h3>
