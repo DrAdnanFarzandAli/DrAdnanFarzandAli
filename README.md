@@ -250,8 +250,6 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 
 <h3> Badges:</h3>
 
-## My Certifications
-
 <table>
   <tr>
     <td align="center">
