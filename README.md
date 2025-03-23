@@ -250,33 +250,6 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 
 <h3> Badges:</h3>
 
-
-## Certifications
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/938dfdcb-3dbd-4348-b3e7-8107a06f3507" target="_blank">
-        <img src="https://images.credly.com/size/100x100/images/9da3eedf-fda3-4e81-bb46-d174b4699bf1/image.png" alt="Data Visualization with Python Badge"><br>
-        <strong>Data Visualization with Python</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/02196522-3736-47a6-a8ef-38c194d5e272" target="_blank">
-        <img src="https://images.credly.com/size/100x100/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png" alt="Data Analysis with Python Badge"><br>
-        <strong>Data Analysis with Python</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/745a7248-d830-450f-b647-843921533069" target="_blank">
-        <img src="https://images.credly.com/size/100x100/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png" alt="Data Analyst Capstone Project Badge"><br>
-        <strong>Data Analyst Capstone Project</strong>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
 [Data Visualization with Python](https://www.credly.com/earner/earned/badge/938dfdcb-3dbd-4348-b3e7-8107a06f3507)
 
 ![IBM Data Visualization Badge](https://images.credly.com/size/100x100/images/9da3eedf-fda3-4e81-bb46-d174b4699bf1/image.png)
