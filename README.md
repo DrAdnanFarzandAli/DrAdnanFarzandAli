@@ -286,6 +286,9 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 
 ![Product Management Essentials](https://images.credly.com/size/100x100/images/6abd5c40-4663-4c4c-ab4e-ea4a86269db6/image.png)
 
+[Product Management Capstone](https://www.credly.com/earner/earned/badge/9dbd6bd8-9e94-46c7-b170-3a136f4f94e6)
+![Product Management Capstone](https://images.credly.com/size/100x100/images/7153ec15-b681-4fd0-a566-7807064b9084/image.png)
+
 [Google Advanced Data Analytics Certificate](https://www.credly.com/earner/earned/badge/68475e8e-0994-41bc-a1bb-d4bb8763eae2)
 
 ![Google Advanced Data Analytics Certificate](https://images.credly.com/size/100x100/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png)
@@ -390,13 +393,12 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 
 ![GenAI for Executives & Business Leaders: An Introduction](https://images.credly.com/size/100x100/images/4611b9ff-09ca-4ed9-a36e-2be3f57fdf83/blob)
 
-
 [Generative AI for Human Resources Specialization](https://www.credly.com/earner/earned/badge/6147af9f-14ee-440d-a1a2-08f7a49aa7f3)
 
 ![Generative AI for Human Resources Specialization](https://images.credly.com/size/100x100/images/b62e6769-90c4-46ee-9faf-6deb4576e358/Coursera_20Generative_20AI_20for_20Human_20Resources_20Specialization.png)
 
-
-
+[IBM Data Science Professional Certificate (V3)](https://www.credly.com/earner/earned/badge/ba21d256-cf85-4b40-83dd-30954a840845)
+![IBM Data Science Professional Certificate (V3)](https://images.credly.com/size/100x100/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png)
 
 
 ## Business Intelligence Data Analysis/Financial Analysis Projects:
