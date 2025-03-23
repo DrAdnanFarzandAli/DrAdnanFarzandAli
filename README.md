@@ -57,21 +57,6 @@ I am deeply committed to driving technological innovation, business growth, and 
 ### Project Management - Skills and Competencies
 
 ## Project Management Tools
-
-## Project Management Tools
-
-<p align="left">
-  <a href="https://asana.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Asana_logo.svg" alt="Asana" width="80" height="80">
-  </a>
-  <a href="https://trello.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Trello-logo-blue.svg" alt="Trello" width="80" height="80">
-  </a>
-  <a href="https://monday.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Monday-logo-Color.png" alt="Monday.com" width="80" height="80">
-  </a>
-</p>
-
 ![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Monday.com](https://img.shields.io/badge/Monday.com-FF3E00?style=flat&logo=monday&logoColor=white)
