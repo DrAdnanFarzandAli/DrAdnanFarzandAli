@@ -146,12 +146,6 @@ I am deeply committed to driving technological innovation, business growth, and 
 ![Fuzzy Logic](https://img.shields.io/badge/Fuzzy_Logic-4CAF50?style=flat)
 
 ### Project Manager Core Competencies
-
-![Microsoft Project](https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Project_Logo.png)
-![Risk Management](https://cdn-icons-png.flaticon.com/512/3039/3039566.png)
-![Earned Value Management](https://cdn-icons-png.flaticon.com/512/1041/1041916.png)
-![Agile](https://upload.wikimedia.org/wikipedia/commons/5/58/Agile_Project_Management_Logo.png)
-
 ![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-0078D4?style=for-the-badge&logo=microsoft-project&logoColor=white)
 ![Risk Management](https://img.shields.io/badge/Risk_Management-FF6F61?style=for-the-badge&logo=risk-management&logoColor=white)
 ![Earned Value Management](https://img.shields.io/badge/Earned_Value_Management-0064A3?style=for-the-badge&logo=earned-value-management&logoColor=white)
