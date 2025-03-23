@@ -413,67 +413,91 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
       <br>Deep Learning Essentials with Keras
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/b3878e4a-ce56-45e9-804d-7a6febbd863a">
+        <img src="https://images.credly.com/size/100x100/images/61d40b7e-46df-4f8a-ac27-cb8520d8c15e/image.png" alt="Deep Learning with Tensorflow">
+      </a>
+      <br>Deep Learning with TensorFlow
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/4effe0c5-e02d-4cf0-80d2-e29506d7e3bc">
+        <img src="https://images.credly.com/size/100x100/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png" alt="Computer Vision and Image Processing Essentials">
+      </a>
+      <br>Computer Vision and Image Processing Essentials
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/861d9424-edce-478b-80e0-cbad8b1d3d7f">
+        <img src="https://images.credly.com/size/100x100/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png" alt="Google Digital Marketing and E-Commerce Professional Certificate">
+      </a>
+      <br>Google Digital Marketing and E-Commerce Professional Certificate
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/0b083b45-f6d5-467c-89df-9546c7475b19">
+        <img src="https://images.credly.com/size/100x100/images/34bc57a9-659c-4500-ac30-48d50b942478/image.png" alt="Exploratory Data Analysis for Machine Learning">
+      </a>
+      <br>Exploratory Data Analysis for Machine Learning
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/31ed2273-58d0-4d20-bbd9-1c4801abc6b2">
+        <img src="https://images.credly.com/size/100x100/images/98cacf67-57fe-425d-8782-5a8cffd9ee0a/image.png" alt="SAS Statistical Business Analyst Professional Certificate">
+      </a>
+      <br>SAS Statistical Business Analyst Professional Certificate
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/ad8b403b-f89e-4958-8dc4-a0d9b93c0939">
+        <img src="https://images.credly.com/size/100x100/images/3c8bc106-3635-45d0-ab5a-736adb87595e/image.png" alt="Unsupervised Machine Learning">
+      </a>
+      <br>Unsupervised Machine Learning
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/f4a17726-cd35-4615-8b39-7e6e98c992db">
+        <img src="https://images.credly.com/size/100x100/images/b352af34-6bd5-48eb-a8d9-e84f11faa53e/image.png" alt="Deep Learning and Reinforcement Learning">
+      </a>
+      <br>Deep Learning and Reinforcement Learning
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/e958c0f9-172d-48d9-991c-3faf3aca6b9e">
+        <img src="https://images.credly.com/size/100x100/images/f3af0321-cf53-4d2e-af0b-5bc3f6389814/600x600.png" alt="Meta Marketing Analytics Milestone (1 of 2)">
+      </a>
+      <br>Meta Marketing Analytics Milestone (1 of 2)
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/f93f4684-f6bc-489b-b6c6-5c2ab2116c9f">
+        <img src="https://images.credly.com/size/100x100/images/19878499-c3d3-4e67-8b97-8ec273187ccd/image.png" alt="Supervised Machine Learning: Classification">
+      </a>
+      <br>Supervised Machine Learning: Classification
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/09f1189a-5d2e-4718-9957-6484935b8291">
+        <img src="https://images.credly.com/size/100x100/images/f27d3b7c-e2b2-4816-9656-c10da20b7296/image.png" alt="Statistics for Data Science with Python">
+      </a>
+      <br>Statistics for Data Science with Python
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/15ed2232-3c81-430a-afa9-683f5c85e0c8">
+        <img src="https://images.credly.com/size/100x100/images/4611b9ff-09ca-4ed9-a36e-2be3f57fdf83/blob" alt="GenAI for Executives & Business Leaders: An Introduction">
+      </a>
+      <br>GenAI for Executives & Business Leaders
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/6147af9f-14ee-440d-a1a2-08f7a49aa7f3">
+        <img src="https://images.credly.com/size/100x100/images/b62e6769-90c4-46ee-9faf-6deb4576e358/Coursera_20Generative_20AI_20for_20Human_20Resources_20Specialization.png" alt="Generative AI for Human Resources Specialization">
+      </a>
+      <br>Generative AI for HR Specialization
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/ba21d256-cf85-4b40-83dd-30954a840845">
+        <img src="https://images.credly.com/size/100x100/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png" alt="IBM Data Science Professional Certificate (V3)">
+      </a>
+      <br>IBM Data Science Professional Certificate (V3)
+    </td>
+  </tr>
 </table>
-
-
-
-
-
-
-
-
-[Deep Learning with Tensorflow](https://www.credly.com/earner/earned/badge/b3878e4a-ce56-45e9-804d-7a6febbd863a) 
-
-![Deep Learning with Tensorflow](https://images.credly.com/size/100x100/images/61d40b7e-46df-4f8a-ac27-cb8520d8c15e/image.png)
-
-[Computer Vision and Image Processing Essentials](https://www.credly.com/earner/earned/badge/4effe0c5-e02d-4cf0-80d2-e29506d7e3bc)
-
-![Computer Vision and Image Processing Essentials](https://images.credly.com/size/100x100/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png)
-
-[Google Digital Marketing and E-Commerce Professional Certificate](https://www.credly.com/earner/earned/badge/861d9424-edce-478b-80e0-cbad8b1d3d7f)
-
-![Google Digital Marketing and E-Commerce Professional Certificate](https://images.credly.com/size/100x100/images/941fa490-a052-46ae-beff-1ac8e55c117f/image.png)
-
-[Exploratory Data Analysis for Machine Learning](https://www.credly.com/earner/earned/badge/0b083b45-f6d5-467c-89df-9546c7475b19)
-
-![Exploratory Data Analysis for Machine Learning](https://images.credly.com/size/100x100/images/34bc57a9-659c-4500-ac30-48d50b942478/image.png)
-
-[SAS Statistical Business Analyst Professional Certificate](https://www.credly.com/earner/earned/badge/31ed2273-58d0-4d20-bbd9-1c4801abc6b2)
-
-![SAS Statistical Business Analyst Professional Certificate](https://images.credly.com/size/100x100/images/98cacf67-57fe-425d-8782-5a8cffd9ee0a/image.png)
-
-[Unsupervised Machine Learning](https://www.credly.com/earner/earned/badge/ad8b403b-f89e-4958-8dc4-a0d9b93c0939) 
-
-![Unsupervised Machine Learning](https://images.credly.com/size/100x100/images/3c8bc106-3635-45d0-ab5a-736adb87595e/image.png)
-
-[Deep Learning and Reinforcement Learning](https://www.credly.com/earner/earned/badge/f4a17726-cd35-4615-8b39-7e6e98c992db) 
-
-![Deep Learning and Reinforcement Learning](https://images.credly.com/size/100x100/images/b352af34-6bd5-48eb-a8d9-e84f11faa53e/image.png) 
-
-[Meta Marketing Analytics Milestone (1 of 2)](https://www.credly.com/earner/earned/badge/e958c0f9-172d-48d9-991c-3faf3aca6b9e) 
-
-![Meta Marketing Analytics Milestone (1 of 2)](https://images.credly.com/size/100x100/images/f3af0321-cf53-4d2e-af0b-5bc3f6389814/600x600.png)
-
-[Supervised Machine Learning: Classification](https://www.credly.com/earner/earned/badge/f93f4684-f6bc-489b-b6c6-5c2ab2116c9f) 
-
-![Supervised Machine Learning: Classification](https://images.credly.com/size/100x100/images/19878499-c3d3-4e67-8b97-8ec273187ccd/image.png) 
-
-[Statistics for Data Science with Python](https://www.credly.com/earner/earned/badge/09f1189a-5d2e-4718-9957-6484935b8291)
-
-![Statistics for Data Science with Python](https://images.credly.com/size/100x100/images/f27d3b7c-e2b2-4816-9656-c10da20b7296/image.png)
-
-[GenAI for Executives & Business Leaders: An Introduction](https://www.credly.com/earner/earned/badge/15ed2232-3c81-430a-afa9-683f5c85e0c8)
-
-![GenAI for Executives & Business Leaders: An Introduction](https://images.credly.com/size/100x100/images/4611b9ff-09ca-4ed9-a36e-2be3f57fdf83/blob)
-
-[Generative AI for Human Resources Specialization](https://www.credly.com/earner/earned/badge/6147af9f-14ee-440d-a1a2-08f7a49aa7f3)
-
-![Generative AI for Human Resources Specialization](https://images.credly.com/size/100x100/images/b62e6769-90c4-46ee-9faf-6deb4576e358/Coursera_20Generative_20AI_20for_20Human_20Resources_20Specialization.png)
-
-[IBM Data Science Professional Certificate (V3)](https://www.credly.com/earner/earned/badge/ba21d256-cf85-4b40-83dd-30954a840845)
-
-![IBM Data Science Professional Certificate (V3)](https://images.credly.com/size/100x100/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png)
-
 
 ## Business Intelligence Data Analysis/Financial Analysis Projects:
 
