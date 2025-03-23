@@ -220,7 +220,7 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
   <tr>
     <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/ZNE4BKJNRMSX">Google Data Analytics</a></td>
     <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/A7Z71OOUIG3E">Microsoft IT Support Specialist</a></td>
-    <td></td>
+    <td>-------------</td>
   </tr>
   <tr>
     <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/KKTDUC0WLB1L">Google Advanced Data Analytics</a></td>
