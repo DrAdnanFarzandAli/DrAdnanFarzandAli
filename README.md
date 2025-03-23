@@ -47,9 +47,7 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 
 <h2>Skills Wallet:</h2>
 
-### Project Management - Skills and Competencies
-
-## Project Management Tools
+## Project Management - Skills and Competencies 
 ![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Monday.com](https://img.shields.io/badge/Monday.com-FF3E00?style=flat&logo=monday&logoColor=white)
@@ -193,7 +191,7 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 
 <h2>Professional Certificate and Badges:</h2>
 
-#### Certifications and Badges Approval: American Council & FIBAA On Education Transcript
+##### Certifications and Badges Approval: American Council & FIBAA On Education Transcript
 
 [View American Council on Education Transcript](https://github.com/DrAdnanFarzandAli/AMERICAN-COUNCIL-ON-EDUCATION-TRANSCRIPT/blob/main/AMERICAN%20COUNCIL%20%26%20FIBAA%20ON%20EDUCATION%20TRANSCRIP.pdf)
 
