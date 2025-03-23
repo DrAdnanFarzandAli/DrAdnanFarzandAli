@@ -9,27 +9,22 @@
 ![Matrix SVG](https://miro.medium.com/v2/resize:fit:828/format:webp/0*tD5kEC2JYcKHH0zO.gif)
 
 #### Academic & Professional Development
-My educational accomplishments include a Doctor of Philosophy in Business Administration (DBA) and a PhD, alongside an MS in Project Management (Gold Medalist), an MSc in Engineering Management, and a Bachelor's in Engineering. I am a firm believer in lifelong learning, as evidenced by completing 100+ professional certifications from globally recognized institutions such as Google, Microsoft, Meta, IBM, SAP, and Stanford University.
+<p align="justify"> My educational accomplishments include a Doctor of Philosophy in Business Administration (DBA) and a PhD, alongside an MS in Project Management (Gold Medalist), an MSc in Engineering Management, and a Bachelor's in Engineering. I am a firm believer in lifelong learning, as evidenced by completing 100+ professional certifications from globally recognized institutions such as Google, Microsoft, Meta, IBM, SAP, and Stanford University.</p>
 
 #### Certifications Snapshot
-I’ve acquired certifications in key areas to stay at the forefront of technological advancements:
+<p align="justify"> I’ve acquired certifications in key areas to stay at the forefront of technological advancements:
 Google Data Analytics, Google Advanced Data Analytics, Google Project Management, Google IT Automation with Python, Google Digital Marketing & E-commerce, Google Cloud Data Analytics.
-Microsoft Power BI Data Analyst, Microsoft Data Analyst, Microsoft Project Management.
-IBM Data Science, IBM AI Engineering, IBM Applied AI, IBM Machine Learning.
-Meta Data Analyst, Meta Social Media Marketing.
-SAP Technology Consultant.
-SAS & Tableau Advanced analytics and visualization tools expertise.
-Atlassian Jira Fundamentals, paired with Scrum Alliance’s Professional Scrum Master Certification to excel in Agile environments.
+Microsoft Power BI Data Analyst, Microsoft Data Analyst, Microsoft Project Management. IBM Data Science, IBM AI Engineering, IBM Applied AI, IBM Machine Learning. Meta Data Analyst, Meta Social Media Marketing. SAP Technology Consultant. SAS & Tableau Advanced analytics and visualization tools expertise. Atlassian Jira Fundamentals, paired with Scrum Alliance’s Professional Scrum Master Certification to excel in Agile environments.</p>
 
 #### Core Expertise
-Electronics Product Design & Manufacturing: Delivering innovative products with optimized processes.
+<p align="justify"> Electronics Product Design & Manufacturing: Delivering innovative products with optimized processes.
 Data Analytics & Business Intelligence: Deriving actionable insights through advanced tools like Power BI and Tableau.
 Project & Program Management: Proven ability to lead diverse teams using Agile and traditional methodologies.
 IT & Software Development Support : Expertise in IT infrastructure, support systems, and automation.
-Digital Marketing Strategies: Leveraging analytics for impactful marketing campaigns.
+Digital Marketing Strategies: Leveraging analytics for impactful marketing campaigns.</p>
 
 #### Career Vision
-I am deeply committed to driving technological innovation, business growth, and operational efficiency. My career aspirations include exploring emerging trends, scaling businesses, and contributing to the success of forward-thinking organizations.
+<p align="justify"> I am deeply committed to driving technological innovation, business growth, and operational efficiency. My career aspirations include exploring emerging trends, scaling businesses, and contributing to the success of forward-thinking organizations.</p>
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
