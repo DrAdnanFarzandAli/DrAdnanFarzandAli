@@ -248,6 +248,21 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
     <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/7D4XSY0R5IJ6">Tableau Business Intelligence 
     Analyst</a></td>
     </tr>
+    <tr>
+    <th>SAP</th>
+    <th>SAS</th>
+    <th>Google Cloud</th>
+  </tr>
+  <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/61KTTVED7P7X">SAP Technology Consultant</a></td>
+  <td></td>
+  <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/RRN8ASSLTDAN">SAS Visual Business Analytics</a></td>
+  <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/FLFU87E1402L">SAS Statistical Business Analyst</a></td>
+  <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/ITZHKB599EM1">Google Professional Workspace 
+  Administrator</a></td>
+  <td><a href="https://www.coursera.org/account/accomplishments/specialization/BDLXTSEKUJLU">Introduction to Generative AI Learning 
+  Path</a></td>
+
+  
 </table>
 
 ## Certifications
@@ -294,13 +309,17 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 <h4>SAP:</h4>
 
 - [SAP Technology Consultant](https://www.coursera.org/account/accomplishments/professional-cert/61KTTVED7P7X)
+- [SAS Visual Business Analytics](https://www.coursera.org/account/accomplishments/professional-cert/RRN8ASSLTDAN)
+- [SAS Statistical Business Analyst](https://www.coursera.org/account/accomplishments/professional-cert/FLFU87E1402L)
+- [Google Professional Workspace Administrator](https://www.coursera.org/account/accomplishments/professional-cert/ITZHKB599EM1)
+- [Introduction to Generative AI Learning Path](https://www.coursera.org/account/accomplishments/specialization/BDLXTSEKUJLU)
 
 <h4>SAS:</h4>
 
 - [SAS Visual Business Analytics](https://www.coursera.org/account/accomplishments/professional-cert/RRN8ASSLTDAN)
 - [SAS Statistical Business Analyst](https://www.coursera.org/account/accomplishments/professional-cert/FLFU87E1402L)
 
-<h4>SAS:</h4>
+<h4>Google Cloud:</h4>
 
 - [Google Professional Workspace Administrator](https://www.coursera.org/account/accomplishments/professional-cert/ITZHKB599EM1)
 - [Introduction to Generative AI Learning Path](https://www.coursera.org/account/accomplishments/specialization/BDLXTSEKUJLU)
