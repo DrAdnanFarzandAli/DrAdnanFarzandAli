@@ -225,17 +225,17 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
   <tr>
     <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/KKTDUC0WLB1L">Google Advanced Data Analytics</a></td>
     <td><a href="https://www.coursera.org/account/accomplishments/specialization/ANFSX9YDPXMW">Microsoft 365 Fundamentals</a></td>
-    <td></td>
+    <td>-------------------------------------</td>
   </tr>
   <tr>
     <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/C149UEVCWHC2">Google IT Support</a></td>
     <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/QS3L331IG6T5">Microsoft Azure Data Engineering Associate (DP-203)</a></td>
-    <td></td>
+    <td>-------------------------------------</td>
   </tr>
   <tr>
     <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/Y6QC14B6N4XU">Google Digital Marketing & E-commerce</a></td>
-    <td></td>
-    <td></td>
+    <td>-------------------------------------</td>
+    <td>-------------------------------------</td>
   </tr>
   <tr>
     <th>LearnQuest</th>
@@ -259,7 +259,7 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
     <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/ITZHKB599EM1">Google Professional Workspace Administrator</a></td>
     </tr>
     <tr>
-    <td></td>
+    <td>-------------------------------------</td>
     <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/FLFU87E1402L">SAS Statistical Business Analyst</a> 
     <td><a href="https://www.coursera.org/account/accomplishments/specialization/BDLXTSEKUJLU">Introduction to Generative AI Learning Path</a></td>
     </tr>
