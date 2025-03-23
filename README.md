@@ -198,6 +198,49 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 
 
 <h3>Certifications:</h3>
+
+## Professional Certifications
+
+<table>
+  <tr>
+    <th>Google</th>
+    <th>Microsoft</th>
+    <th>Meta</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/7QBEEXWIWEBB">Google Project Management</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/56M1DFYCNJ5Q">Microsoft Power BI Data Analyst</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/U2CVBGJUHKNJ">Meta Data Analyst</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/IM0Q6V9O3XVB">Google Business Intelligence</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/0QHIEETUAKO1">Microsoft Business Analyst</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/U0HMTBTV8JV6">Meta Marketing Analytics</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/ZNE4BKJNRMSX">Google Data Analytics</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/A7Z71OOUIG3E">Microsoft IT Support Specialist</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/KKTDUC0WLB1L">Google Advanced Data Analytics</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/specialization/ANFSX9YDPXMW">Microsoft 365 Fundamentals</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/C149UEVCWHC2">Google IT Support</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/QS3L331IG6T5">Microsoft Azure Data Engineering Associate (DP-203)</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/Y6QC14B6N4XU">Google Digital Marketing & E-commerce</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+
 <h4>Google:</h4>
 
 - [Google Project Management](https://www.coursera.org/account/accomplishments/professional-cert/7QBEEXWIWEBB)
