@@ -54,9 +54,7 @@ I am deeply committed to driving technological innovation, business growth, and 
 
 <h2>Skills Wallet:</h2>
 
-### Project Management Skills and Competencies
-
-#### Technical Skills 
+### Project Management - Skills and Competencies
 ![Asana](https://img.shields.io/badge/Asana-273347?style=flat&logo=asana&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Monday.com](https://img.shields.io/badge/Monday.com-FF3E00?style=flat&logo=monday&logoColor=white)
@@ -98,8 +96,7 @@ I am deeply committed to driving technological innovation, business growth, and 
 ![Scope Management](https://img.shields.io/badge/Scope_Management-32CD32?style=flat&logo=scope_management&logoColor=white)
 ![Decision Matrix Analysis](https://img.shields.io/badge/Decision_Matrix_Analysis-800080?style=flat&logo=decision_matrix_analysis&logoColor=white)
 
-### Business Intelligence Data Analysis 
-#### Technical Skills
+### Business Intelligence Data Analysis - Skills and Competencies 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -148,8 +145,7 @@ I am deeply committed to driving technological innovation, business growth, and 
 ![Cross-Tabulation Analysis](https://img.shields.io/badge/Cross_Tabulation_Analysis-F44336?style=flat)
 ![Fuzzy Logic](https://img.shields.io/badge/Fuzzy_Logic-4CAF50?style=flat)
 
-
-#### 💼 Project Manager Core Competencies
+<h2>Project Manager Core Competencies</h2>
 ![Microsoft Project](https://img.shields.io/badge/Microsoft_Project-0078D4?style=for-the-badge&logo=microsoft-project&logoColor=white)
 ![Risk Management](https://img.shields.io/badge/Risk_Management-FF6F61?style=for-the-badge&logo=risk-management&logoColor=white)
 ![Earned Value Management](https://img.shields.io/badge/Earned_Value_Management-0064A3?style=for-the-badge&logo=earned-value-management&logoColor=white)
