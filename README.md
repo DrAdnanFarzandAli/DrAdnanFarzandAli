@@ -317,29 +317,42 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
       <br>Product Management Capstone
     </td>
   </tr>
-
+ <tr>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/68475e8e-0994-41bc-a1bb-d4bb8763eae2">
+        <img src="https://images.credly.com/size/100x100/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="Google Advanced Data Analytics Certificate">
+      </a>
+      <br>Google Advanced Data Analytics Certificate
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/9b297299-6ed7-47f6-92e6-59d9bc625f9c">
+        <img src="https://images.credly.com/size/100x100/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" alt="Data Science Orientation">
+      </a>
+      <br>Data Science Orientation
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/c561b237-b048-48e1-898c-09460cfd51ec">
+        <img src="https://images.credly.com/size/100x100/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png" alt="Generative AI Essentials">
+      </a>
+      <br>Generative AI Essentials
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/55bf6e1b-d9ed-41f0-a6b4-261df2ff4645">
+        <img src="https://images.credly.com/size/100x100/images/1dc40257-c856-4e6b-9a92-29be936a9e7c/image.png" alt="Generative AI Essentials for Data Science">
+      </a>
+      <br>Generative AI Essentials for Data Science
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/efd7acad-1444-4b44-8863-971872d303ea">
+        <img src="https://images.credly.com/size/100x100/images/c3a4c477-8fb6-4737-af88-cabbea1ad55b/IBM_AI_Foundations_for_Business.png" alt="IBM AI Foundations for Business Specialization">
+      </a>
+      <br>IBM AI Foundations for Business Specialization
+    </td>
+  </tr>
 </table>
 
 
-[Google Advanced Data Analytics Certificate](https://www.credly.com/earner/earned/badge/68475e8e-0994-41bc-a1bb-d4bb8763eae2)
 
-![Google Advanced Data Analytics Certificate](https://images.credly.com/size/100x100/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png)
-
-[Data Science Orientation](https://www.credly.com/earner/earned/badge/9b297299-6ed7-47f6-92e6-59d9bc625f9c)
-
-![Data Science Orientation](https://images.credly.com/size/100x100/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)
-
-[Generative AI Essentials](https://www.credly.com/earner/earned/badge/c561b237-b048-48e1-898c-09460cfd51ec)
-
-![Generative AI Essentials](https://images.credly.com/size/100x100/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png)
-
-[Generative AI Essentials for Data Science](https://www.credly.com/earner/earned/badge/55bf6e1b-d9ed-41f0-a6b4-261df2ff4645)
-
-![Generative AI Essentials for Data Science](https://images.credly.com/size/100x100/images/1dc40257-c856-4e6b-9a92-29be936a9e7c/image.png)
-
-[IBM AI Foundations for Business Specialization](https://www.credly.com/earner/earned/badge/efd7acad-1444-4b44-8863-971872d303ea)
-
-![IBM AI Foundations for Business Specialization](https://images.credly.com/size/100x100/images/c3a4c477-8fb6-4737-af88-cabbea1ad55b/IBM_AI_Foundations_for_Business.png)
 
 [Introduction to Cloud Computing](https://www.credly.com/earner/earned/badge/39ac14fb-4289-4e52-8c38-98bec40ebd17)
 
