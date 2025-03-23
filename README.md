@@ -248,6 +248,17 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
     <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/7D4XSY0R5IJ6">Tableau Business Intelligence 
     Analyst</a></td>
     </tr>
+    <tr>
+    <th>LearnQuest</th>
+    <th>SkillUp EdTech</th>
+    <th>Tableau Learning Partner</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/account/accomplishments/specialization/46K23TWMRA4I">Scrum Master Certification</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/specialization/F07A2L5I7UHX">Scrum Master</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/7D4XSY0R5IJ6">Tableau Business Intelligence 
+    Analyst</a></td>
+    </tr>
     
    </table>
 
