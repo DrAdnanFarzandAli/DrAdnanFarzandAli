@@ -254,7 +254,6 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
     <th>Google Cloud</th>
   </tr>
   <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/61KTTVED7P7X">SAP Technology Consultant</a></td>
-  <td></td>
   <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/RRN8ASSLTDAN">SAS Visual Business Analytics</a></td>
   <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/FLFU87E1402L">SAS Statistical Business Analyst</a></td>
   <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/ITZHKB599EM1">Google Professional Workspace 
