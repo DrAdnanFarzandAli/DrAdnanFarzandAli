@@ -381,6 +381,38 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
       <br>Meta Data Analyst Professional Certificate
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/d0d27781-79b8-4272-bbf4-d2399a65c06a">
+        <img src="https://images.credly.com/size/100x100/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support Professional Certificate">
+      </a>
+      <br>Google IT Support Professional Certificate
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/00773ee9-aeb6-44e7-b347-317ff7d57cd3">
+        <img src="https://images.credly.com/size/100x100/images/63cbaa7d-9dc1-497a-84be-50dcef1d848b/Coursera_20Business_20Intelligence_20BI_20Analyst_20Professional_20Certificate.png" alt="IBM Business Intelligence (BI) Analyst Professional Certificate">
+      </a>
+      <br>IBM Business Intelligence (BI) Analyst Professional Certificate
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/6b21019d-b6ef-4fa2-b6f6-3d6db8f4d15d">
+        <img src="https://images.credly.com/size/100x100/images/3551a56d-e006-4e63-be6d-6842d2d53cfa/image.png" alt="Deep Neural Networks with PyTorch">
+      </a>
+      <br>Deep Neural Networks with PyTorch
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/9b1e4260-d13a-4468-842d-55f769dc008f">
+        <img src="https://images.credly.com/size/100x100/images/adbb7c0e-b79f-4fbf-b215-9b402a89bfd8/90819_badges_Learn_CourseraCoBrand_BusinessIntell.png" alt="SAS Visual Business Analytics Professional Certificate">
+      </a>
+      <br>SAS Visual Business Analytics Professional Certificate
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/d760735f-61de-430e-aa28-132ed069d40f">
+        <img src="https://images.credly.com/size/100x100/images/91de936a-1322-446d-9ea6-949d78c57428/image.png" alt="Deep Learning Essentials with Keras">
+      </a>
+      <br>Deep Learning Essentials with Keras
+    </td>
+  </tr>
 </table>
 
 
@@ -388,25 +420,7 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
 
 
 
-[Google IT Support Professional Certificate](https://www.credly.com/earner/earned/badge/d0d27781-79b8-4272-bbf4-d2399a65c06a)
 
-![Google IT Support Professional Certificate](https://images.credly.com/size/100x100/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png)
-
-[IBM Business Intelligence (BI) Analyst Professional Certificate](https://www.credly.com/earner/earned/badge/00773ee9-aeb6-44e7-b347-317ff7d57cd3)
-
-![IBM Business Intelligence (BI) Analyst Professional Certificate](https://images.credly.com/size/100x100/images/63cbaa7d-9dc1-497a-84be-50dcef1d848b/Coursera_20Business_20Intelligence_20BI_20Analyst_20Professional_20Certificate.png)
-
-[Deep Neural Networks with PyTorch](https://www.credly.com/earner/earned/badge/6b21019d-b6ef-4fa2-b6f6-3d6db8f4d15d)
-
-![Deep Neural Networks with PyTorch](https://images.credly.com/size/100x100/images/3551a56d-e006-4e63-be6d-6842d2d53cfa/image.png)
-
-[SAS Visual Business Analytics Professional Certificate](https://www.credly.com/earner/earned/badge/9b1e4260-d13a-4468-842d-55f769dc008f)
-
-![SAS Visual Business Analytics Professional Certificate](https://images.credly.com/size/100x100/images/adbb7c0e-b79f-4fbf-b215-9b402a89bfd8/90819_badges_Learn_CourseraCoBrand_BusinessIntell.png)
-
-[Deep Learning Essentials with Keras](https://www.credly.com/earner/earned/badge/d760735f-61de-430e-aa28-132ed069d40f)
-
-![Deep Learning Essentials with Keras](https://images.credly.com/size/100x100/images/91de936a-1322-446d-9ea6-949d78c57428/image.png)
 
 [Deep Learning with Tensorflow](https://www.credly.com/earner/earned/badge/b3878e4a-ce56-45e9-804d-7a6febbd863a) 
 
