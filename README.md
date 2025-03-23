@@ -249,6 +249,13 @@ Digital Marketing Strategies: Leveraging analytics for impactful marketing campa
   </tr>
 </table>
 
+## Certifications
+
+### LearnQuest | SkillUp EdTech | Tableau Learning Partner
+| LearnQuest | SkillUp EdTech | Tableau Learning Partner |
+|------------|---------------|--------------------------|
+| [Scrum Master Certification](https://www.coursera.org/account/accomplishments/specialization/46K23TWMRA4I) | [Scrum Master](https://www.coursera.org/account/accomplishments/specialization/F07A2L5I7UHX) | [Tableau Business Intelligence Analyst](https://www.coursera.org/account/accomplishments/professional-cert/7D4XSY0R5IJ6) |
+
 
 
 <h4>Google:</h4>
