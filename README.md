@@ -137,9 +137,10 @@
     <th>Meta</th>
   </tr>
   <tr>
-    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/7QBEEXWIWEBB">Google Project Management</a></td>
-    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/56M1DFYCNJ5Q">Microsoft Power BI Data Analyst</a></td>
-    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/U2CVBGJUHKNJ">Meta Data Analyst</a></td>
+<td><a href="https://www.coursera.org/account/accomplishments/professional-cert/7QBEEXWIWEBB" style="font-size: 12px;">Google Project Management</a></td>
+<td><a href="https://www.coursera.org/account/accomplishments/professional-cert/56M1DFYCNJ5Q" style="font-size: 12px;">Microsoft Power BI Data Analyst</a></td>
+<td><a href="https://www.coursera.org/account/accomplishments/professional-cert/U2CVBGJUHKNJ" style="font-size: 12px;">Meta Data Analyst</a></td>
+
   </tr>
   <tr>
     <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/IM0Q6V9O3XVB">Google Business Intelligence</a></td>
