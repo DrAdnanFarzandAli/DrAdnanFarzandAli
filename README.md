@@ -130,7 +130,7 @@
 
 <h3> Certifications:</h3>
 
-<table style="font-size: 14px;">
+<table style="font-size: 8px;">
   <tr>
     <th>Google</th>
     <th>Microsoft</th>
