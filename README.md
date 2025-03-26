@@ -130,6 +130,20 @@
 
 <h3> Certifications:</h3>
 
+<table style="font-size: 14px;">
+  <tr>
+    <th>Google</th>
+    <th>Microsoft</th>
+    <th>Meta</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/7QBEEXWIWEBB">Google Project Management</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/56M1DFYCNJ5Q">Microsoft Power BI Data Analyst</a></td>
+    <td><a href="https://www.coursera.org/account/accomplishments/professional-cert/U2CVBGJUHKNJ">Meta Data Analyst</a></td>
+  </tr>
+</table>
+
+
 <table>
   <tr>
     <th>Google</th>
